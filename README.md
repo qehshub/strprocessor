@@ -7,8 +7,8 @@
   - 去除不合理断行，该功能主要针对从pdf文件复制的文本。
 
 【使用步骤与技巧】
-1)将标准全文复制到“tobeprocessed.txt"文件中，保存
-2)双击pretext_1.0.exe后等待几秒钟（pyinstall打包的python文件也只能这么快了~~）
+1)将标准全文复制到“tobeprocessed.txt"文件中，保存；
+2)双击pretext_1.0.exe后等待几秒钟（pyinstall打包的python文件也只能这么快了~~）；
 3)解析成功后将在同一文件目录下生成文本文件：processed.txt
 
 【注意】
